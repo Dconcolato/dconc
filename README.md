@@ -10,7 +10,7 @@
   </a>
 </p>
     #
-### Languages<br><br>
+### Languages:<br><br>
   
   <p align="center">
   <a href="https://skillicons.dev">
@@ -18,4 +18,4 @@
   </a>
 </p>
   
-  <h3>Working on <a class="link" href="https://music.qspace.ml">Shuffle Music</a><br><hr>
+  <h4>Working on <a class="link" href="https://music.qspace.ml">Shuffle Music</a><br><hr>
