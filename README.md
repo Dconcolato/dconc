@@ -7,9 +7,7 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,arduino,azure,blender,github,visualstudio,vscode,wordpress" />
-  </a>
-</p>
-    #
+
 ### Languages:<br><br>
   
   <p align="center">
