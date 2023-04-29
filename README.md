@@ -6,7 +6,15 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,arduino,azure,blender,c,cs,cpp,css,html,php,js,discord,dotnet,github,instagram,twitter,visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,arduino,azure,blender,github,visualstudio,vscode,wordpress" />
+  </a>
+</p>
+    #
+### Languages<br><br>
+  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,php,js,dotnet," />
   </a>
 </p>
   
