@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=dconcolato&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thisisdconc&theme=dark&hide_border=true)](https://git.io/streak-stats)
   #
 ### I work with:<br><br>
   
