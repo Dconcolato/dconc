@@ -6,7 +6,7 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,arduino,azure,blender,github,visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd,azure,github,visualstudio,vscode,wordpress" />
 
 ### Languages:<br><br>
   
@@ -16,4 +16,4 @@
   </a>
 </p>
   
-  <h4>Working on <a class="link" href="https://home.qspace.gq/suite">Qspace Suite</a><br><hr>
+  <h4>Founder and CEO at <a class="link" href="https://www.qspace.rf.gd">Qspace Corporation</a><br><hr>
